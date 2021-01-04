@@ -1,0 +1,76 @@
+[Mon Jan 04 12:06:06 PST 2021] ERROR Delivery not possible. Message: Cannot invoke "nhclCo.DistributionCenter.shipProduct(nhclCo.DistributionCenter$Product)" because the return value of "java.util.Map.get(Object)" is null
+[Mon Jan 04 12:06:06 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:06:06 PST 2021] ERROR Delivery unavailable. Message: Truck is broken
+[Mon Jan 04 12:06:06 PST 2021] ERROR Fixing the truck
+[Mon Jan 04 12:06:06 PST 2021] ERROR Retrying the order
+[Mon Jan 04 12:06:06 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:06:06 PST 2021] ERROR Delivery refused. Message: Not delivering heavy product
+[Mon Jan 04 12:06:06 PST 2021] ERROR Attempting to ship from scranton instead
+[Mon Jan 04 12:06:06 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:06:06 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:06:06 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:06:06 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:06:34 PST 2021] ERROR Delivery not possible. Message: Cannot invoke "nhclCo.DistributionCenter.shipProduct(nhclCo.DistributionCenter$Product)" because the return value of "java.util.Map.get(Object)" is null
+[Mon Jan 04 12:06:34 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:06:34 PST 2021] ERROR Delivery unavailable. Message: Truck is broken
+[Mon Jan 04 12:06:34 PST 2021] ERROR Fixing the truck
+[Mon Jan 04 12:06:34 PST 2021] ERROR Retrying the order
+[Mon Jan 04 12:06:34 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:06:34 PST 2021] ERROR Delivery refused. Message: Not delivering heavy product
+[Mon Jan 04 12:06:34 PST 2021] ERROR Attempting to ship from scranton instead
+[Mon Jan 04 12:06:34 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:06:34 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:06:34 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:06:34 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:07:38 PST 2021] ERROR Delivery not possible. Message: Cannot invoke "nhclCo.DistributionCenter.shipProduct(nhclCo.DistributionCenter$Product)" because the return value of "java.util.Map.get(Object)" is null
+[Mon Jan 04 12:07:38 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:07:38 PST 2021] ERROR Delivery unavailable. Message: Truck is broken
+[Mon Jan 04 12:07:38 PST 2021] ERROR Fixing the truck
+[Mon Jan 04 12:07:38 PST 2021] ERROR Retrying the order
+[Mon Jan 04 12:07:38 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:07:38 PST 2021] ERROR Delivery refused. Message: Not delivering heavy product
+[Mon Jan 04 12:07:38 PST 2021] ERROR Attempting to ship from scranton instead
+[Mon Jan 04 12:07:38 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:07:38 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:07:38 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:07:38 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR Delivery not possible. Message: Cannot invoke "nhclCo.DistributionCenter.shipProduct(nhclCo.DistributionCenter$Product)" because the return value of "java.util.Map.get(Object)" is null
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR Delivery unavailable. Message: Truck is broken
+[Mon Jan 04 12:38:45 PST 2021] ERROR Fixing the truck
+[Mon Jan 04 12:38:45 PST 2021] ERROR Retrying the order
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR Delivery refused. Message: Not delivering heavy product
+[Mon Jan 04 12:38:45 PST 2021] ERROR Attempting to ship from scranton instead
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR Delivery not possible. Message: Cannot invoke "nhclCo.DistributionCenter.shipProduct(nhclCo.DistributionCenter$Product)" because the return value of "java.util.Map.get(Object)" is null
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR Delivery refused. Message: Not delivering heavy product
+[Mon Jan 04 12:38:45 PST 2021] ERROR Attempting to ship from scranton instead
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR Delivery not possible. Message: Cannot invoke "nhclCo.DistributionCenter.shipProduct(nhclCo.DistributionCenter$Product)" because the return value of "java.util.Map.get(Object)" is null
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR Delivery refused. Message: Not delivering heavy product
+[Mon Jan 04 12:38:45 PST 2021] ERROR Attempting to ship from scranton instead
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR Delivery not possible. Message: Cannot invoke "nhclCo.DistributionCenter.shipProduct(nhclCo.DistributionCenter$Product)" because the return value of "java.util.Map.get(Object)" is null
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR Delivery refused. Message: Not delivering heavy product
+[Mon Jan 04 12:38:45 PST 2021] ERROR Attempting to ship from scranton instead
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
+[Mon Jan 04 12:38:45 PST 2021] ERROR ========= moving on =========
